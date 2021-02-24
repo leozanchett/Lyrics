@@ -1,6 +1,6 @@
-# apiMusica
+# Lyrics Finder
 
-A new Flutter project.
+Um projeto em flutter qual é possível pesquisar letras de músicas.
 
 ## Getting Started
 
